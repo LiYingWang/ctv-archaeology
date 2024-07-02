@@ -1101,7 +1101,9 @@ Visser, R.M., 2021. Dendrochronological Provenance Patterns. Network Analysis of
 
 Wang, X., Bocksberger, G., Lautenschläger, T., Finckh, M., Meller, P., O’Malley, G. E., & Oelze, V. M. (2023). A bioavailable strontium isoscape of Angola with implications for the archaeology of the transatlantic slave trade. _Journal of Archaeological Science_, 154, 105775. https://doi.org/10.1016/j.jas.2023.105775
 
-Wang, Li-Ying, and Ben Marwick (2021). A Bayesian Networks Approach to Infer Social Changes from Burials in Northeastern Taiwan during the European Colonization Period. _Journal of Archaeological Science_ 134: 105471.
+Wang, L. Y., Lin, K. C., & Zhou, Z. (2024). Preliminary insights into the use of pottery and culinary practices at Guijiabao site in southwest China. _Journal of Archaeological Science: Reports_ 57. <https://doi.org/10.1016/j.jasrep.2024.104598> <https://github.com/LiYingWang/GJBpottery> <https://osf.io/46bpf/>
+
+Wang, Li-Ying, and Ben Marwick (2021). A Bayesian Networks Approach to Infer Social Changes from Burials in Northeastern Taiwan during the European Colonization Period. _Journal of Archaeological Science_ 134: 105471. <https://doi.org/10.1016/j.jas.2021.105471> <https://github.com/LiYingWang/kwl-burials> <https://osf.io/xga6n/>
 
 Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33. <https://doi.org/10.1016/j.jasrep.2020.102554> <https://github.com/LiYingWang/kwl.pottery> <https://osf.io/abvgf/>
 
